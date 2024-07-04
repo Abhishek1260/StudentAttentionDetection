@@ -2,7 +2,6 @@ import cv2
 from pathlib import Path
 import uuid
 import time
-from PIL import Image
 
 path = Path("images")
 
