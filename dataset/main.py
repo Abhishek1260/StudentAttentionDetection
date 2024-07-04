@@ -27,4 +27,4 @@ for category in strs:
         img_path = img / f"{category}-{rand}.jpg"
         cv2.imwrite(str(img_path) , frame)
         time.sleep(5)
-    time.sleep(20)
+    time.sleep(10)
